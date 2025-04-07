@@ -2,7 +2,7 @@
 
 A Streamlit-based web application for monitoring MQTT messages in real-time with built-in message simulation capabilities.
 
-![MQTT Dashboard](https://via.placeholder.com/800x450.png?text=MQTT+Dashboard+Screenshot)
+![MQTT Dashboard](mqtt_dashboard_screenshot.png)
 
 ## Features
 
@@ -35,8 +35,8 @@ A Streamlit-based web application for monitoring MQTT messages in real-time with
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/mqtt-dashboard.git
-   cd mqtt-dashboard
+   git clone https://github.com/jan-milacek/mqtt_dashboard.git
+   cd mqtt_dashboard
    ```
 
 2. Create and activate a virtual environment (optional but recommended):
