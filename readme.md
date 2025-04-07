@@ -87,17 +87,3 @@ Configure the application by setting these parameters in the sidebar:
 ## Running as a Service
 
 See the [Service Setup Guide](service-setup.md) for instructions on running the dashboard as a system service.
-
-## Security Considerations
-
-- This application may expose sensitive system information when run on production systems
-- Consider implementing additional authentication for the Streamlit interface
-- Review your firewall rules if exposing this service publicly
-
-## License
-
-[MIT License](LICENSE)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
