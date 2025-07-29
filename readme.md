@@ -312,10 +312,6 @@ For questions about classroom implementation:
 - Contact: jan.milacek@gmail.com
 - Check documentation for configuration examples
 
-## 🔗 Related Projects
-
-- [SQL Simulator](../SQL_simulator) - Companion tool for analyzing collected IoT data
-- [Course Materials](../course-materials) - Complete IoT education curriculum
 
 ## 📜 License
 
