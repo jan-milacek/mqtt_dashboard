@@ -60,7 +60,7 @@ MQTT Flow:
 │ Simulated)  │             │   Cloud)    │                 │             │
 └─────────────┘             └─────────────┘                 └─────────────┘
                                     ▲                               │
-                                    │          MQTT Publish        │
+                                    │          MQTT Publish         │
                                     └───────────────────────────────┘
                                          Message Simulator
 ```
